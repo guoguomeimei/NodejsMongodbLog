@@ -15,5 +15,8 @@
   ],
   "author": "gmay",
   "license": "GNU",
-  "git repository":"https://github.com/guoguomeimei/NodejsMongodbLog"
+  "git repository": "https://github.com/guoguomeimei/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
